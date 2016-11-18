@@ -1,0 +1,4 @@
+network={
+  ssid="YOUR_WIFI_NAME"
+  psk="YOUR_WIFI_PASSWORD"
+}
